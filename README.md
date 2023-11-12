@@ -15,7 +15,7 @@ Sou um desenvolvedor apaixonado por tecnologia e programação. Atualmente, meu 
 
 ### Projetos destacados:
 
-- [R&A Selling Manager](https://github.com/RafaelMoreira96/sistema-vendas) - É o meu TCC (ainda vou apresentar). Consiste em um sistema de vendas com gerenciamento de estoque. Ele também gera um relatório simples de lucros e prejuízos. Ainda tem alguns itens que devo ajustar, mas está 70% pronto.
+- [xCelsior - Gerenciamento de Vendas](https://github.com/RafaelMoreira96/sistema-vendas) - É o meu TCC (ainda vou apresentar). Consiste em um sistema de vendas com gerenciamento de estoque. Ele também gera um relatório simples de lucros e prejuízos. Ainda tem alguns itens que devo ajustar, mas está 70% pronto.
 
 - [API-GO-TELP](https://github.com/RafaelMoreira96/apigo-telp) - Gosto de destacar este projeto por um simples motivo: foi o projeto que me provou pra mim mesmo que sou capaz de buscar conhecimento pra completar uma tarefa. O objetivo era só criar um pequeno projeto que fizesse o cadastro de alunos, o cadastro de materias e unidades curriculares e com uma regra de negócio, vincular ao aluno isso e depois de lançado as notas, mostrar se o aluno foi aprovado ou reprovado. Acabei criando uma API para isso, usando SQLite, já que a proposta do professor era não precisar de instalar nenhum banco de dados na máquina dele. Aproveitei e fiz também um front-end para aplicação, bem simples.
 
