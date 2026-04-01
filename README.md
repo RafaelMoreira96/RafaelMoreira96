@@ -9,10 +9,10 @@
 
 ## 👨‍💻 Sobre mim
 
-- 💡 Desenvolvedor com foco em back-end e APIs performáticas  
-- 🧱 Experiência com arquitetura em camadas e Clean Architecture  
-- ⚙️ Trabalho com Go, Java (Spring) e Python (FastAPI)  
-- 📚 Sempre estudando performance, concorrência e boas práticas  
+- 💡 Desenvolvedor focado em back-end e construção de APIs performáticas  
+- 🧱 Experiência com sistemas legados e projetos próprios com foco em arquitetura  
+- ⚙️ Atuo atualmente com PHP, explorando também Go, Java (Spring) e Python (FastAPI)  
+- 📚 Estudando constantemente performance, concorrência e boas práticas  
 
 > 🎯 Objetivo: evoluir como backend engineer e construir sistemas escaláveis e bem estruturados.
 
@@ -20,10 +20,10 @@
 
 ## 🧠 O que estou estudando atualmente
 
-- Concorrência e paralelismo em Go  
+- Aprofundamento em Go (principal foco)  
 - Arquitetura limpa (Clean Architecture)  
-- Integração com bancos relacionais e NoSQL  
-- Containerização e deploy com Docker  
+- Revisão e evolução com Java (Spring)  
+- Pós-graduação em Gestão da Segurança e Tecnologia da Informação  
 
 ---
 
@@ -34,7 +34,7 @@ Sistema completo de gestão de vendas com controle de estoque e relatórios.
 
 - Java + Angular  
 - Arquitetura MVC  
-- Controle de lucro e desempenho  
+- Gestão de estoque e análise de lucro  
 
 👉 https://github.com/RafaelMoreira96/sistema-vendas  
 
@@ -44,21 +44,32 @@ Sistema completo de gestão de vendas com controle de estoque e relatórios.
 API REST estruturada com foco em boas práticas e organização de código.
 
 - Python + FastAPI + SQLAlchemy  
-- Estrutura em camadas  
+- Arquitetura em camadas  
 - CRUD completo  
 
 👉 https://github.com/RafaelMoreira96/gerenciamento-biblioteca-python  
 
 ---
 
-### 🎓 API de Alunos (Go)
-API com regras de negócio para análise de aprovação de alunos.
+### 🎓 API Educacional em Go
+API criada como base didática para ensino de Go.
 
 - Go + SQLite  
-- Lógica de negócio aplicada  
-- Projeto focado em aprendizado de Go  
+- Estrutura simples e didática  
+- Regras de negócio aplicadas  
 
-👉 https://github.com/RafaelMoreira96/apigo-telp  
+👉 https://github.com/RafaelMoreira96/apimvc-go-mini-curso  
+
+---
+
+### 🎮 Checkpoint | Gerenciador de Backlog
+Aplicação para controle de jogos já jogados, inspirada em plataformas como Backloggd.
+
+- Go + Angular + PostgreSQL  
+- Foco em formulários, estatísticas e experiência do usuário  
+- Projeto com maior complexidade lógica e evolução arquitetural  
+
+👉 https://github.com/RafaelMoreira96/checkpoint-backlog-manager  
 
 ---
 
@@ -76,8 +87,8 @@ API com regras de negócio para análise de aprovação de alunos.
 
 <div>
   <a href="https://github.com/RafaelMoreira96">
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelMoreira96&layout=compact&langs_count=7&theme=dracula"/>
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelMoreira96&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RafaelMoreira96&theme=dracula"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RafaelMoreira96&theme=dracula"/>
   </a>
 </div>
 
@@ -85,9 +96,9 @@ API com regras de negócio para análise de aprovação de alunos.
 
 ## 🎮 Fora do código
 
-- 📖 Escrevo histórias de fantasia  
-- 🎻 Toco viola de arco  
-- 🎮 Fã de RPG (Final Fantasy, Zelda)  
+- 📖 Escritor de histórias de fantasia  
+- 🎻 Toco viola de arco desde a infância  
+- 🎮 Gamer (foco em jogos singleplayer)  
 - 💡 Interesse futuro: desenvolvimento de jogos indie  
 
 ---
