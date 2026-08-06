@@ -11,16 +11,17 @@
 
 - 💡 Desenvolvedor focado em back-end e construção de APIs performáticas  
 - 🧱 Experiência com sistemas legados e projetos próprios com foco em arquitetura  
-- ⚙️ Atuo atualmente com PHP, explorando também Go, Java (Spring) e Python (FastAPI)  
+- ⚙️ Atuo no presente momento ministrando aulas para o ensino médio técnico, no IFMS Campus Três Lagoas, ensinando SQL, FLutterFlow e JavaScript (e um dia, quem sabe, eu passo a palavra do Go para eles)
 - 📚 Estudando constantemente performance, concorrência e boas práticas  
 
-> 🎯 Objetivo: evoluir como backend engineer e construir sistemas escaláveis e bem estruturados.
+> 🎯 Objetivo: evoluir como backend engineer e construir sistemas escaláveis e bem estruturados (e ser um excelente professor).
 
 ---
 
 ## 🧠 O que estou estudando atualmente
 
-- Aprofundamento em Go (principal foco)  
+- Aprofundamento em Go (principal foco)
+- JavaScript, SQL e FlutterFlow (para preparar aulas)
 - Arquitetura limpa (Clean Architecture)  
 - Revisão e evolução com Java (Spring)  
 - Pós-graduação em Gestão da Segurança e Tecnologia da Informação  
